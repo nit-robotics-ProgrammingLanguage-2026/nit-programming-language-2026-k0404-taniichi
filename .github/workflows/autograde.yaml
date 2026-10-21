@@ -15,3 +15,4 @@ jobs:
       # workflow's token is the intersection with the caller's grants, so
       # this must mirror autograde-runner.yaml's permissions.
       pull-requests: write
+# runner: classroom50-public
